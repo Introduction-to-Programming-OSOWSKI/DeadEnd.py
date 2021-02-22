@@ -1,1 +1,2 @@
-#WRITE YOUR CODE IN THIS FILE
+j = [1,2,3,4,"dead"]  
+print(j)

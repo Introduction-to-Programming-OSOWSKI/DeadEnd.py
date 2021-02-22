@@ -1,14 +1,22 @@
-# **Assignment Title**  
+# **Dead End**  
 
 ## **Assignment Description**  
-
+Create a function called deadEnd() that returns a given list j but the last value of the list is deleted and replaced with the word "dead".
 
 ## **Examples**  
->
+>deadEnd([1,2,3,4,5])  
+[1, 2, 3, 4, dead]
 
 ## **Limitations**  
+1 function  
+1 list  
+0 for loops  
+0 if statements  
 
 ## **Hints**  
+j.pop(0) removes the first value of a the list j  
+j.append("word") adds the value "word" to the end of the list j  
+len(j) returns the number of values in the list j  
 
 ## **Concepts**  
 
